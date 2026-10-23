@@ -1,12 +1,11 @@
 # Learner Profile
 
-Copy this file to one of these locations and fill it in:
+Copy to one of these locations and fill it in:
 
 - `<project>/.mentor/LEARNER.md` — project-scoped, travels with the repo
-- `~/.mentor/LEARNER.md` — user-scoped, follows you across projects
+- `~/.mentor/LEARNER.md` — user-scoped, follows across projects
 
-The mentor resolves them in that order and never stores secrets, credentials, or
-private client details here. This file holds skills, goals, and decisions only.
+The mentor resolves them in that order. Never store secrets, credentials, or private client details here.
 
 ---
 
@@ -15,15 +14,15 @@ private client details here. This file holds skills, goals, and decisions only.
 - **Name:**
 - **Role / seniority:**
 - **Primary stack:** (languages, frameworks, datastores, deployment target)
-- **Learning style notes:** (prefers theory-first? wants to reason from a spec? dislikes being asked questions?)
+- **Learning style notes:** (theory-first? reason from a spec? dislikes questions?)
 
 ## Level
 
 One of `Novice`, `Developing`, `Competent`, `Advanced`.
 
-**Why this level:** (one line of evidence — what in the code or conversation supports it)
+**Why this level:** (one line of evidence)
 
-**Recalibration notes:** (contradictions observed since the last update)
+**Recalibration notes:** (contradictions observed since last update)
 
 ## Current Project
 
@@ -52,7 +51,7 @@ Do not re-explain these without being asked.
 
 ## Concepts to Revisit
 
-Concepts that were shaky, or that turned out to matter.
+Concepts that were shaky or that turned out to matter.
 
 - 
 
@@ -63,12 +62,6 @@ Settled ground. Check before reopening.
 | Decision | Chosen approach | Why | Date |
 | --- | --- | --- | --- |
 |  |  |  |  |
-
-## Current Challenges
-
-The problems actually in flight, in the mentor's words.
-
-- 
 
 ## Next Focus
 
