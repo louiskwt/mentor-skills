@@ -7,6 +7,7 @@ This repo is a collection of skills that one can use to build projects and learn
 | Skill                               | Description                                                                                                                                                                                                                                                                                 |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [swe-mentor](./swe-mentor/SKILL.md) | Acts as a senior-engineer mentor. Guides a junior developer through designing, building, debugging, and reviewing a project — sets direction, challenges the process, reviews for quality, efficiency, and security, and escalates deliberately instead of handing over the implementation. |
+| [cs-mentor](./cs-mentor/SKILL.md)   | Act as a mentro for learning about CS. Guide aspiring CS learner through explaining CS concepts, giving pointers and showing examples.                                                                                                                                                      |
 
 ## Layout
 
